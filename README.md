@@ -1,4 +1,4 @@
-# HVS_INN_MC_Project
+# HVS INN MC Project
 Hypervision surgical INN project with MC simulation dataset
 
 > Hyperspectral imaging is a safe, non-contact and contrast-agent-free optical imaging modality perfectly suited to provide intraoperative tissue characterisation for more precise and safer surgery. This project will focus on developing invertible neural network approaches to extract physiological tissue properties and associated uncertainty, such as blood perfusion, from sparse hyperspectral imaging data.
@@ -12,30 +12,17 @@ Hypervision surgical INN project with MC simulation dataset
   - Dr Michael Ebner
   - Dr Conor Horgan
   - Dr Mirek Janatka
-  
-## Requirement
-```
-TODO
-```
 
 ## File Structure
 ```
 .
-├── pdf                     # key milestone of jupyternote book
 ├── data                    # dataset folder
 ├── logs                    # log of training process of each trial
 ├── runs                    # run env to push temp cache
 ├── tensors                 # export of tensors with longtime calculation (cuda output)
 ├── models                  # models and correspond config python file
 ├── src                     # lib of model, dataset and config
-│   ├── config_*.py         # configuration of pipeline
-│   ├── inn_model.py        # model and train functions
-│   ├── loss_funs.py        # loss functions
-│   └── dataset.py          # dataset class file
-│   └── cuda_run.py         # single process of posterior estimation
-│   └── cuda_main.py        # multiprocess of posterior estimation
-│   └── camera_*.py         # camera simulation upon MC simulation data
-│   └── utils.py            # Reuben's SuperResulution Demosiac data generation utils copy
+├── ipynb files             # experiments or parctical runnings
 ```
 
 ## Run
