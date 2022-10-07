@@ -1,4 +1,5 @@
-# HVS INN MC Project
+# UCL 2022 Msc Machine Learning - Individual project - Shuangrui CHEN
+## HVS INN MC Project
 Hypervision surgical INN project with MC simulation dataset
 
 > Hyperspectral imaging is a safe, non-contact and contrast-agent-free optical imaging modality perfectly suited to provide intraoperative tissue characterisation for more precise and safer surgery. This project will focus on developing invertible neural network approaches to extract physiological tissue properties and associated uncertainty, such as blood perfusion, from sparse hyperspectral imaging data.
