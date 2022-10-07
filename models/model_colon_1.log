@@ -1,0 +1,45 @@
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([7.8738e-01, 4.7506e+03, 1.8404e+01, 4.1674e+02])
+MAE Sao2 0 - 0.415105
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([210.6177, 858.7812,  17.2160, 129.0917])
+MAE Sao2 0 - 0.316561
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  8.5793, 334.1400,  12.7674,  92.5867])
+MAE Sao2 0 - 0.275955
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([ 23.2791, 150.1151,  16.2879,  75.8218])
+MAE Sao2 0 - 0.262884
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([ 14.7717, 153.1119,  13.8444,  71.1251])
+MAE Sao2 0 - 0.264397
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  7.0524, 148.1634,   9.1987,  69.5062])
+MAE Sao2 0 - 0.261386
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  5.0089, 144.8055,   7.3846,  68.3593])
+MAE Sao2 0 - 0.258202
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  3.9547, 139.6488,   6.8527,  66.7245])
+MAE Sao2 0 - 0.254102
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  3.2963, 136.3095,   4.8478,  64.8814])
+MAE Sao2 0 - 0.249744
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  2.4595, 135.5847,   4.7294,  60.1436])
+MAE Sao2 0 - 0.246939
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  3.0877, 133.2853,   3.9023,  58.8960])
+MAE Sao2 0 - 0.236741
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  2.2173, 130.9909,   2.7062,  48.8252])
+MAE Sao2 0 - 0.211814
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  1.7311, 129.2591,   2.7052,  29.8778])
+MAE Sao2 0 - 0.144756
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  1.5369, 128.2912,   3.4361,  21.6235])
+MAE Sao2 0 - 0.171768
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  1.5564, 125.2911,   2.9131,  15.1920])
+MAE Sao2 0 - 0.106516
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  1.5653, 122.2470,   1.9496,  13.0548])
+MAE Sao2 0 - 0.098424
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  1.2850, 120.0229,   1.5672,  12.7822])
+MAE Sao2 0 - 0.093191
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  1.2443, 113.0902,   1.2708,  10.3835])
+MAE Sao2 0 - 0.095062
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  1.2253, 107.3115,   0.8968,   8.4269])
+MAE Sao2 0 - 0.083825
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([  1.1499, 102.5161,   0.5417,   6.7864])
+MAE Sao2 0 - 0.069962
+Epoch %d: time - %.2f | LOSS forward mse mmd backward mmd mse tensor([ 1.2182, 93.7414,  0.4154,  5.4365])
+MAE Sao2 0 - 0.059103
+data/mc/colon_train_15.7.15.4_power_led_300.csv
+['sao2', 'vhb']
+x: 6, y: 16, z: 10, tot: 26

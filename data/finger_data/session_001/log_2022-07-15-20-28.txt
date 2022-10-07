@@ -1,0 +1,43 @@
+Init OPENGL
+Creating Imgui context
+Loading shaders
+Init cuda
+Creating frames
+Loading resources
+Creating objects and buffers
+Source Started
+20-29-27 [info] Source Started : 15.7.15.4
+
+20-29-27 [info] Sensor Temp : 37.937500
+
+20-29-27 [info] Version no. : 87f916055bc89fba80292af9b48e36a9cefe7763-dirty
+
+20-29-37 [info] Sensor Temp : 38.000000
+
+White image set
+Setting Fov Mask
+RT mask thresh changed to : 0.000000
+Setting Runtime Mask
+RT mask thresh changed to : 0.450000
+Setting Runtime Mask
+RT mask thresh changed to : 0.450000
+Setting Runtime Mask
+RT mask thresh changed to : 0.450000
+Setting Runtime Mask
+RT mask thresh changed to : 0.000000
+Setting Runtime Mask
+16-02-17 [info] Sensor Temp : 37.437500
+
+16-16-54 [info] Started recording of : ./output/2022-07-15/session_001/P010001_V03_iHSI_T01_2022-07-28-16-16-54.mov
+16-17-23 [info] Stopped recording of : ./output/2022-07-15/session_001/P010001_V03_iHSI_T01_2022-07-28-16-16-54.mov
+16-17-23 [info] Total Surgical Time: 00:28
+
+16-17-23 [info] Total Recording Time: 00:28
+
+16-56-21 [info] Sensor Temp : 38.000000
+
+Stopping acquisition...
+Cleaning up
+Surgical Time: 00:28
+Total Recording Time: 00:28
+Done
